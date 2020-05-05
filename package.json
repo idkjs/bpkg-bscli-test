@@ -1,0 +1,10 @@
+{
+  "name": "bpkg-bscli-test",
+  "version": "0.3.0",
+  "description": "This is test package for test of homebrew",
+  "global": "false",
+  "scripts": [ "bpkg-test.sh" ],
+  "dependencies": {
+    "term": "0.0.1"
+  }
+}
